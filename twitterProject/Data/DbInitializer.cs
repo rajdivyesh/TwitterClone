@@ -19,11 +19,11 @@ namespace twitterProject.Data
             //Add users on the time of DB creation
             var users = new User[]
             {
-            new User{FirstName="Than",LastName="Thao", Email="thao@gmail.com", ImageUrl="https://avatars.githubusercontent.com/u/56978370?v=4", Password="12345",},
-             new User{FirstName="Tejvir",LastName="Singh", Email="tej@gmail.com",ImageUrl="https://avatars.githubusercontent.com/u/62151509?v=4" , Password="12345",},
-              new User{FirstName="Waseq",LastName="Rahman", Email="waseq@gmail.com", ImageUrl="https://avatars.githubusercontent.com/u/56893007?v=4", Password="12345",},
-                new User{FirstName="Atul",LastName="Rana", Email="atul@gmail.com", ImageUrl="https://avatars.githubusercontent.com/u/88677125?v=4", Password="12345",},
-                new User{FirstName="Dhvanil",LastName="Sharma", Email="dhvanil@gmail.com", ImageUrl="https://avatars.githubusercontent.com/u/80846153?v=4", Password="12345",}
+            new User{FirstName="Karan",LastName="Parmar", Email="kp@gmail.com", ImageUrl="https://media.licdn.com/dms/image/D5635AQHaH5_EpKkW9g/profile-framedphoto-shrink_400_400/0/1638213301423?e=1671825600&v=beta&t=vkkDOCrMZ8YYIg2ScIYTIxPiWSRkYDY-30vp4zMQDLs", Password="12345",},
+             new User{FirstName="Elon",LastName="Musk", Email="elon@gmail.com",ImageUrl="https://avatars.githubusercontent.com/u/47338871?s=40&v=4" , Password="12345",},
+              new User{FirstName="Evan",LastName="Luthra", Email="evan@gmail.com", ImageUrl="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmF89nCgOkgnehuhjstkS7yDKd4fXfvMFgSJFzBUO4hNltchvE1JNs&usqp=CAE&s", Password="12345",},
+                new User{FirstName="Divyesh",LastName="Raj", Email="raj.divyesh2001@gmail.com", ImageUrl="https://avatars.githubusercontent.com/u/68767607?v=4", Password="12345",},
+                new User{FirstName="Parth",LastName="Patel", Email="parth@gmail.com", ImageUrl="https://media.licdn.com/dms/image/C4E03AQFqg9fqByGiUA/profile-displayphoto-shrink_100_100/0/1516982089152?e=1676505600&v=beta&t=-ysEVXxzJLNkVkNKbEE7p0-5W8OMJO7FQ93lx-F7tAA", Password="12345",}
             };
             foreach (User u in users)
             {
